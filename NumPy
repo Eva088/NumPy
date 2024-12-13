@@ -1062,7 +1062,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 244,
    "metadata": {},
    "outputs": [
     {
@@ -1087,8 +1087,11 @@
      "output_type": "stream",
      "text": [
       "\u001b[0;31mSignature:\u001b[0m \u001b[0mdouble\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0ma\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
-      "\u001b[0;31mDocstring:\u001b[0m Returns a * 2\n",
-      "\u001b[0;31mFile:\u001b[0m      /var/folders/7r/4mzxxc8s11j4hsy10wgjdzsh0000gn/T/ipykernel_41861/3615674933.py\n",
+      "\u001b[0;31mSource:\u001b[0m   \n",
+      "\u001b[0;32mdef\u001b[0m \u001b[0mdouble\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0ma\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\n",
+      "\u001b[0;34m\u001b[0m    \u001b[0;34m'''Returns a * 2'''\u001b[0m\u001b[0;34m\u001b[0m\n",
+      "\u001b[0;34m\u001b[0m    \u001b[0;32mreturn\u001b[0m \u001b[0ma\u001b[0m \u001b[0;34m*\u001b[0m \u001b[0;36m2\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
+      "\u001b[0;31mFile:\u001b[0m      /var/folders/7r/4mzxxc8s11j4hsy10wgjdzsh0000gn/T/ipykernel_41861/4117734853.py\n",
       "\u001b[0;31mType:\u001b[0m      function"
      ]
     }
@@ -1109,11 +1112,9 @@
     "    '''Returns a * 2'''\n",
     "    return a * 2\n",
     "\n",
-    "double??\n",
-    "\n",
     "double?\n",
     "\n",
-    "##If the object in question is compiled in a language other than Python, using ?? will return the same information as ?. "
+    "double??"
    ]
   }
  ],
